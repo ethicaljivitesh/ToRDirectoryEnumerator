@@ -15,7 +15,7 @@ This project is a Python CLI tool to enumerate directories on `.onion` websites 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/tor-dir-enumerator.git
+   git clone https://github.com/ethicaljivitesh/tor-dir-enumerator.git
 
 ## How to Use
 - python3 tor_dir_enum.py
